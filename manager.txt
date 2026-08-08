@@ -1,0 +1,5 @@
+Sandesh Shrestha|M001|Project Manager|21|Baneshwor-3, Kathmandu|45000|sandesh@gmail.com|sandesh12@#
+Rijan Pariyar|M002|HR Manager|21|Baneshwor-4, Kathmandu|44000|rijan1@gmail.com|rijan12@#
+Aayush Thapa|M003|Operations Manager|24|Lakeside-6, Pokhara|48000|aayush@gmail.com|aayush12@#
+Bibek Gurung|M004|Finance Manager|25|New Road-8, Kathmandu|50000|bibek@gmail.com|bibek12@#
+Nischal Karki|M005|IT Manager|23|Chipledhunga-4, Pokhara|47000|nischal@gmail.com|nischal12@#

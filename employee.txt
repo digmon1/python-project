@@ -1,0 +1,9 @@
+Aarav Sharma|E001|Software Developer|22|Thamel-5, Kathmandu|35000|aarav@gmail.com|aarav12@#
+Prabin Dahal|E002|Web Developer|23|Boudha-6, Kathmandu|36000|prabin@gmail.com|prabin12@#
+Kiran Thapa|E003|Accountant|24|Lakeside-7, Pokhara|32000|kiran@gmail.com|kiran12@#
+Roshan Gurung|E004|Sales Executive|22|Bagar-4, Pokhara|30000|roshan@gmail.com|roshan12@#
+Suman Karki|E005|Marketing Executive|25|Koteshwor-3, Kathmandu|34000|suman@gmail.com|suman12@#
+Bibek Adhikari|E006|System Administrator|26|Baneshwor-8, Kathmandu|42000|bibek.adhikari@gmail.com|bibek12@#
+Anish Bhandari|E007|HR Assistant|23|Kalanki-2, Kathmandu|30000|anish@gmail.com|anish12@#
+Rohan Shrestha|E008|UI/UX Designer|22|New Road-5, Kathmandu|37000|rohan@gmail.com|rohan12@#
+Sagar Poudel|E009|Network Technician|24|Chipledhunga-3, Pokhara|38000|sagar@gmail.com|sagar12@#
