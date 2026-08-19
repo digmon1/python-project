@@ -1,6 +1,5 @@
-# Sanjay Kumar Shrestha (NP071558) - Leader
-# Prabin Dahal (NP071529)
-# Kapilmani Bhattrai (NP07151)
+# Sanjay Kumar Shrestha (NP071558) 
+
 import os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 from file_handler import FileHandler
@@ -15,8 +14,6 @@ def main():
     print("EMPLOYEE MANAGEMENT SYSTEM - TEAM MEMBERS")
     print("=" * 60)
     print("Leader: Sanjay Kumar Shrestha (NP071558)")
-    print("Member: Prabin Dahal (NP071529)")
-    print("Member: Kapilmani Bhattrai (NP07151)")
     print("=" * 60 + "\n")
     # Launch Tkinter GUI
     app = EmployeeManagementApp()
