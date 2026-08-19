@@ -1,0 +1,5 @@
+Aarav Sharma|E001|Establish frontend–backend pairing with Rohan for UX improvements|2026-08-19 20:45:00
+Prabin Dahal|E002|Set up CI/CD and automated testing for web deployments|2026-08-19 20:45:10
+Bibek Adhikari|E006|Conduct a security audit and implement system hardening checklist|2026-08-19 20:45:20
+Roshan Gurung|E004|Run a targeted sales pilot in Pokhara supported by marketing|2026-08-19 20:45:30
+Anish Bhandari|E007|Create monthly recognition and streamline onboarding processes|2026-08-19 20:45:40

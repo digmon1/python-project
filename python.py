@@ -11,9 +11,9 @@ def main():
     FileHandler.initialize_files()
     # Display team information
     print("=" * 60)
-    print("EMPLOYEE MANAGEMENT SYSTEM - TEAM MEMBERS")
+    print("EMPLOYEE MANAGEMENT SYSTEM")
     print("=" * 60)
-    print("Leader: Sanjay Kumar Shrestha (NP071558)")
+    print(" Sanjay Kumar Shrestha (NP071558)")
     print("=" * 60 + "\n")
     # Launch Tkinter GUI
     app = EmployeeManagementApp()
