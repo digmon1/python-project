@@ -7,3 +7,4 @@ Bibek Adhikari|E006|System Administrator|26|Baneshwor-8, Kathmandu|42000|bibek.a
 Anish Bhandari|E007|HR Assistant|23|Kalanki-2, Kathmandu|30000|anish@gmail.com|anish12@#
 Rohan Shrestha|E008|UI/UX Designer|22|New Road-5, Kathmandu|37000|rohan@gmail.com|rohan12@#
 Sagar Poudel|E009|Network Technician|24|Chipledhunga-3, Pokhara|38000|sagar@gmail.com|sagar12@#
+hari|E010|Accountant|24|bara|13000|hari@gmail.com|hari12
